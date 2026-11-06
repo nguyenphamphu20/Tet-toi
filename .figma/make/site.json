@@ -1,0 +1,10 @@
+{
+  "description": "Shop premium Vietnamese New Year gift baskets, drinks, and value combos, with convenient delivery and corporate gift quotes for families and businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
